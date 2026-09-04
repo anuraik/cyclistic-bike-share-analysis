@@ -103,7 +103,7 @@ Based on the analysis, the following recommendations could help increase annual 
 
 Cyclistic bike-share trip data.
 
-The original dataset is not included in this repository because of its size.
+The original dataset is included in this repository.
 
 ## 👩‍💻 Author
 
