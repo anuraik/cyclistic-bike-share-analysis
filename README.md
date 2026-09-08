@@ -51,7 +51,9 @@ Compared the average ride duration between casual riders and annual members. Ave
 
 ### Weekly Patterns
 
-Analysed average ride duration by day of the week. For casual riders, the most popular day was Friday. Member riders used this service most on Saturdat and Sunday. For casual riders, the lowest day was Sunday and for member riders it was Wednesday. 
+Analysed average ride duration by day of the week. For casual riders, the most popular day was Friday. Member riders used this service most on Saturday and Sunday. For casual riders, the lowest day was Sunday and for member riders it was Wednesday. 
+
+Possible explanation for these results is that casual riders use bikes more for leisure activities or longer rides, as member riders use bikes more for regular and practical movements. 
 
 ### Popular Stations
 
@@ -70,22 +72,28 @@ Top 5 end stations were:
 - Broadway & Barry Ave
 - Wabash Ave & Roosevelt Rd
 
-From those list, there are 3 stations that are overlaping. Dearborn St & Erie St, Desplaines St & Kinzie St and St. Clair St & Erie St are on top 5 on both list. 
+From those list, there are 3 stations that are overlaping. Dearborn St & Erie St, Desplaines St & Kinzie St and St. Clair St & Erie St are on top 5 on both list. Those station maybe the most important locations and there can be a large demand around those areas. From logistical planning (e.g. redistributing bikes), those stations are most impostant. 
+Bike share company can focus in those areas more on: 
+  - advertising membership
+  - QR-code campains
+  - introtucing the benefits of memebership
 
 
 ## 🔍 Key Findings
 
-- Casual riders accounted for 28% of all rides.
-- Members accounted for 72% of all rides.
-- Casual riders had a higher average ride duration by 3,5x times than members.
-- The longest average ride duration was on Fridays. 
-- 3 stations out of top 5 start and end stations overlaped. 
+- The dataset contains 84,756 rides, with casual riders accounting for 72% of all rides and members for 28%. 
+- Casual riders have a significally higher average ride duration than members (1:12h vs. 0:21h).
+- Casual riders use ride share aproximately 3,5 times longer than member riders. 
+- Casual riders have longer average ride durations across all week, with Friday being the longest. 
+- 3 stations out of top 5 start and end stations overlaped.
+- A relatively small number of stations account for a large share of rides, with several popular stations appearing among both the top start and end stations.
+- The usage patterns suggest that casual riders and members use the bike-sharing service differently.
 
 ## 💡 Recommendations
 
 Based on the analysis, the following recommendations could help increase annual memberships:
 
-- Target casual riders with membership offers based on their usage patterns.
+- Target casual riders with membership offers focused on the benefits of frequent and longer-term bike usage.
 - Promote membership benefits during periods with high casual rider activity.
 - Use popular stations as locations for targeted membership campaigns.
 - Highlight the potential value of membership for frequent casual riders.
