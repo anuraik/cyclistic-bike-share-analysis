@@ -109,9 +109,9 @@ Based on the analysis, the following recommendations could help increase annual 
 
 ## 📁 Data Source
 
-Cyclistic bike-share trip data.
+Data source: https://divvy-tripdata.s3.amazonaws.com/index.html
 
-The original dataset is included in this repository.
+The raw dataset is not included in this repository because of its large file size.
 
 ## 👩‍💻 Author
 
